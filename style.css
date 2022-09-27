@@ -1,0 +1,37 @@
+body{
+    background-color: #6DFFB4;
+    font-family: 'Fredoka One', cursive;
+}
+
+.header_div{
+ background-color: #6DFFB4;
+ color: #524A4A;
+}
+
+.header_div p {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    letter-spacing:1px;
+    font-weight: bolt;
+}
+
+.clase_personalisada{
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 1px;
+    background-color: #FD922C;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    border-color: #FD922C;
+}
+
+.copy_right{
+    position: fixed;
+    background-color: white;
+    color: #524A4A;
+    text-align: center;
+    line-height: 22px;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    width: 100%;
+    font-size: 20px;
+}
